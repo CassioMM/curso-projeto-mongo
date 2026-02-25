@@ -15,6 +15,9 @@ Este projeto é uma API REST desenvolvida em Java com Spring Boot integrada ao M
 ## Modelo conceitual
 <img width="861" height="241" alt="image" src="https://github.com/user-attachments/assets/9b72926b-cce6-44b4-84ba-9f4dcda9b3eb" />
 
+## Mongo Compass
+<img width="938" height="746" alt="image" src="https://github.com/user-attachments/assets/e493724f-1e14-416d-9ffa-3832cb86349c" />
+
 ## Layout Postman
 <img width="676" height="707" alt="image" src="https://github.com/user-attachments/assets/cb875d52-6207-4c58-a733-9f36ef425467" />
 
